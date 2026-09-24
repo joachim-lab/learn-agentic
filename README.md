@@ -41,8 +41,13 @@ Progress marks: [ ] not started · [~] in progress · [x] solid
 - [ ] Context windows, memory, and handovers
 - [ ] Verification: why the agent must check its own work
 
+### 5. AI for business with Claude (course)
+- [ ] Full course in `docs/ai-business-course/` — 17 modules + glossary. Start at `00-README.md`.
+- [ ] Modules 01–06 foundations · 07–09 skills, tools, outputs · 10–13 agents and loops · 14–17 control, team, capstone
+
 ## Files
 
 - `lessons/` — one file per lesson, numbered, newest has highest number
 - `glossary.md` — terms in plain language, added as they appear
+- `docs/ai-business-course/` — the AI-for-business course, one Markdown file per module
 - `questions-log.md` — your open questions; answered ones move into lessons
